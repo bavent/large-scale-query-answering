@@ -1,0 +1,2 @@
+adult: https://github.com/ryan112358/private-pgm/raw/master/data/adult.csv
+loans: https://github.com/giusevtr/fem/raw/master/datasets/loans.csv
